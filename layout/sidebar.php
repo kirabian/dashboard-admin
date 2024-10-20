@@ -170,10 +170,10 @@
 
 		<div class="left-side-bar">
 			<div class="brand-logo">
-				<a href="index.html">
-					<img src="vendors/images/deskapp-logo.svg" alt="" class="dark-logo" />
+				<a href="?page=home">
+					<img src="vendors/images/logo-terbaru.png" alt="" class="dark-logo" />
 					<img
-						src="vendors/images/deskapp-logo-white.svg"
+						src="vendors/images/logo-terbaru.png"
 						alt=""
 						class="light-logo"
 					/>
@@ -216,3 +216,9 @@
 				</div>
 			</div>
 		</div> 
+
+<style>
+	.dark-logo, .light-logo{
+		width: 30%;
+	}
+</style>
