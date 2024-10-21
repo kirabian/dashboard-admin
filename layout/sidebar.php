@@ -193,7 +193,7 @@
 						</li>
                         <hr class="sidebar-divider">
                         <li class="">
-							<a href="?page=home" class="">
+							<a href="?page=ip" class="">
 								<span class="fas fa-users"></span
 								><span class="mtext"> Penduduk</span>
 							</a>

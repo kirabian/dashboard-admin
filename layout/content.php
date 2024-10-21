@@ -6,6 +6,17 @@
             case 'home':
                 include 'dashboard/index.php';
                     break;
+
+            //------------PENDUDUK-----------------//
+            case 'ip':
+                include 'penduduk/index-pen.php';
+                break;
+            case 'fp':
+                include 'penduduk/form-pen.php';
+                break;
+            case 'pp':
+                include 'controller/proses-pen.php';
+            //--------PENUTUP PENDUDUK-----------//
             default:
                 include 'dashboard/index.php';
                     break;
